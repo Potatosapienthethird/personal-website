@@ -2,9 +2,32 @@ body {
     background-color: cadetblue;
     opacity: 0.7;
 }
+
 h1{
     color: #3F002E;
 }
+
 h2{
     color: #3F002E;
+}
+
+.container{
+	/* Set width of container to
+		1200px and align center */
+	margin: 0px auto;
+	width: 1200px;
+}
+
+header{
+	
+	overflow: hidden;
+}
+
+menu{
+    text-align: center;
+    margin: 0px auto 0px auto;
+    padding: 3px;
+    font-size: 12px;
+    background-color:lightblue;
+    color:darkmagenta;
 }
