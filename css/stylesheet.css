@@ -8,7 +8,8 @@ body {
 }
 
 #header{
-	background-color: #A6CAD4;
+	color: #334259;
+    background-color: #A6CAD4;
     text-align: center;
 }
 
@@ -23,8 +24,4 @@ body {
 #footer{
     background-color: #A6CAD4;
     text-align: center;
-}
-
-.headercolor{
-    color: #334259;
 }
