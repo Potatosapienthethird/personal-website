@@ -25,3 +25,8 @@ body {
     background-color: #A6CAD4;
     text-align: center;
 }
+
+.image{
+    display: flex;
+    justify-content: end;
+}
